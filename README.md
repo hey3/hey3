@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     <script src="Snowpack" language="TypeScript" type="knowledge"></script>
     <script src="AWS" language="Node.js" type="design/write"></script>
     <script src="StyledComponent" language="TypeScript" type="knowledge/write"></script>
-    <script src="StoryBook" language="TypeScript" type="design"></script>
+    <script src="Storybook" language="TypeScript" type="design"></script>
     <script src="CleanArchitecture" type="knowledge"></script>
     <script src="LayeredArchitecture" language="TypeScript" type="knowledge/write"></script>
   </body>
