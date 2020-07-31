@@ -18,24 +18,24 @@ Here are some ideas to get you started:
 <html>
   <head>
     <title>hey3 README</title>
-    <meta charset="UTF-8" />
-    <meta name="author" content="hey3" />
+    <meta charset="UTF-8">
+    <meta name="author" content="hey3">
     <meta
       name="description"
       content="This is hey3's profile. I'm mainly learning about the web front end."
-    />
-    <meta name="keywords" content="Web FrontEnd, TypeScript, React, AWS" />
+    >
+    <meta name="keywords" content="Web FrontEnd, TypeScript, React, AWS">
   </head>
   <body>
-    <script src="React" language="TypeScript" type="design/write" />
-    <script src="Redux" language="TypeScript" type="design/write" />
-    <script src="webpack" language="TypeScript" type="design/write" />
-    <script src="Snowpack" language="TypeScript" type="knowledge" />
-    <script src="AWS" language="Node.js" type="design/write" />
-    <script src="StyledComponent" language="TypeScript" type="knowledge/write" />
-    <script src="StoryBook" language="TypeScript" type="design" />
-    <script src="CleanArchitecture" type="knowledge" />
-    <script src="LayeredArchitecture" language="TypeScript" type="knowledge/write" />
+    <script src="React" language="TypeScript" type="design/write"></script>
+    <script src="Redux" language="TypeScript" type="design/write"></script>
+    <script src="webpack" language="TypeScript" type="design/write"></script>
+    <script src="Snowpack" language="TypeScript" type="knowledge"></script>
+    <script src="AWS" language="Node.js" type="design/write"></script>
+    <script src="StyledComponent" language="TypeScript" type="knowledge/write"></script>
+    <script src="StoryBook" language="TypeScript" type="design"></script>
+    <script src="CleanArchitecture" type="knowledge"></script>
+    <script src="LayeredArchitecture" language="TypeScript" type="knowledge/write"></script>
   </body>
 </html>
 
