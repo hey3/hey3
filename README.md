@@ -27,14 +27,16 @@ Here are some ideas to get you started:
     <meta name="keywords" content="Web FrontEnd, TypeScript, React, AWS">
   </head>
   <body>
+    <script src="Next.js" language="TypeScript" type="design/write"></script>
     <script src="React" language="TypeScript" type="design/write"></script>
     <script src="Redux" language="TypeScript" type="design/write"></script>
     <script src="webpack" language="TypeScript" type="design/write"></script>
     <script src="Snowpack" language="TypeScript" type="knowledge"></script>
     <script src="AWS" language="Node.js" type="design/write"></script>
+    <script src="firebase" type="knowledge/write"></script>
     <script src="StyledComponent" language="TypeScript" type="knowledge/write"></script>
     <script src="Storybook" language="TypeScript" type="design"></script>
-    <script src="CleanArchitecture" type="knowledge"></script>
+    <script src="CleanArchitecture" type="knowledge/write"></script>
     <script src="LayeredArchitecture" language="TypeScript" type="knowledge/write"></script>
   </body>
 </html>
